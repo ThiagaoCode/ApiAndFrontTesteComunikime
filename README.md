@@ -2,7 +2,7 @@
 
 ## Projeto com desenvolvimento fullstack dando enfase para o back-end 
 
-###(ideia do desafio é desenvolver uma API para o controle do estoque e venda de uma loja de produtos diversos.
+### (ideia do desafio é desenvolver uma API para o controle do estoque e venda de uma loja de produtos diversos.
 Para interface do usuário, é necessário que haja ao menos duas telas: uma para o cadastro dos produtos e uma para a venda)
 
 
