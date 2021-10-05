@@ -7,7 +7,9 @@ Para interface do usuário, é necessário que haja ao menos duas telas: uma par
 
 
 ## Seção 1 - Back-end - API 
-### Api dividida em duas partes, uma para teste local utilizando banco de dados mySQL. Segunda parte, utilizada para Deploy no Heroku utilizando banco de dados PostegreeSQL (acesso Swagger (login: root   -  senha: root): https://apicomunikimethiago.herokuapp.com/swagger-ui/#/)
+### Api dividida em duas partes, uma para teste local utilizando banco de dados mySQL. Segunda parte, utilizada para Deploy no Heroku utilizando banco de dados PostegreeSQL 
+
+Acesso Swagger (login: root   -  senha: root): https://apicomunikimethiago.herokuapp.com/swagger-ui/#/
 
 ### Tecnologias utilizadas: SpringBoot com linguagem Java, banco de dados relacionais MySQL e PostergreeSQL. Deploy Heroku.
 
